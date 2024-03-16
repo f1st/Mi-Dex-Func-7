@@ -1,0 +1,1 @@
+Tích hợp cầu nối với các sàn giao dịch khác và chuyển đổi tiền tệ:
